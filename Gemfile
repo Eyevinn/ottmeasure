@@ -36,3 +36,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'em-proxy'
+gem 'http_parser.rb', '~> 0.6.0'
+gem 'uuid'
